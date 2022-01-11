@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Hurpi
+- 👀 I’m currently learning java
